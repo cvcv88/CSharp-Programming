@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefineType_Task", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Class", "07. Class\07. Class.csproj", "{E21AC3F8-B07B-4B8E-AA79-97DFB7C23E8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Memory", "08. Memory\08. Memory.csproj", "{31AB6F7F-CB4E-45D1-933E-E7F2926F70A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{E21AC3F8-B07B-4B8E-AA79-97DFB7C23E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E21AC3F8-B07B-4B8E-AA79-97DFB7C23E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E21AC3F8-B07B-4B8E-AA79-97DFB7C23E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AB6F7F-CB4E-45D1-933E-E7F2926F70A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AB6F7F-CB4E-45D1-933E-E7F2926F70A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AB6F7F-CB4E-45D1-933E-E7F2926F70A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AB6F7F-CB4E-45D1-933E-E7F2926F70A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
