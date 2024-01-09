@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Function", "05. Functio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefineType", "06. UserDefineType\06. UserDefineType.csproj", "{649A68A9-5640-4372-A124-3A4CCC49EACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefineType_Practice", "06. UserDefineType_Practice\06. UserDefineType_Practice.csproj", "{C7720935-F63C-4083-AED2-FC2E4E879916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{649A68A9-5640-4372-A124-3A4CCC49EACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{649A68A9-5640-4372-A124-3A4CCC49EACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{649A68A9-5640-4372-A124-3A4CCC49EACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7720935-F63C-4083-AED2-FC2E4E879916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7720935-F63C-4083-AED2-FC2E4E879916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7720935-F63C-4083-AED2-FC2E4E879916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7720935-F63C-4083-AED2-FC2E4E879916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
